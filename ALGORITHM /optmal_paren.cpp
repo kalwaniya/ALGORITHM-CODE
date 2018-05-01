@@ -60,6 +60,7 @@ int n,i;
 cout<<"enter total no";
 cin>>n;
 int p[n];
+cout<<"enter the dimensions of matrix"<<endl;
 for(i=0;i<n;i++)
 cin>>p[i];
 matrix_chain(p,n-1);

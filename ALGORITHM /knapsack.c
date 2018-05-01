@@ -65,7 +65,7 @@ for(i=0;i<=n-1;i++)
 {
 	for(j=i;j<=n-1;j++)
 	{
-	if(r[i]<r[j)
+	if(r[i]<r[j])
 {
 
 t=r[j];
